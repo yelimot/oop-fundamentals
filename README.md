@@ -5,7 +5,7 @@ Homeworks from CENG 211 (IZTECH - Programming Fundamentals Course).
 Assignments covers the topics of:
 
 * Defining Classes
-* CSV file I/
+* CSV file I/O
 * 2-dimensional Arrays
 * Constructors, Getters & Setters
 * Inheritance
