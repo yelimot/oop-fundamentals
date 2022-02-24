@@ -35,4 +35,4 @@ Concepts and topics covered along the course:
 * Dynamic Data Structures and Generics
 * Problem Solutions
 
-All the homework solutions and implementations uploaded in this repository are my individual work.
+All the homework solutions - implementations uploaded in this repository are my individual work.
