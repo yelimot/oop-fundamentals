@@ -2,6 +2,20 @@
 
 Homeworks from CENG 211 (IZTECH - Programming Fundamentals Course).
 
+Concepts and topics covered along the course:
+
+* Control Structures
+* Classes and Methods
+* Objects and Methods
+* Inheritance
+* Polymorphism
+* Interfaces
+* Exception Handling
+* Streams and File I/O
+* Recursion
+* Dynamic Data Structures and Generics
+* Problem Solutions
+
 Assignments covers the topics of:
 
 * Defining Classes
@@ -20,19 +34,5 @@ Assignments covers the topics of:
 * Object Oriented Design
 * UML Class Diagram
 * UML Sequence Diagram
-
-Concepts and topics covered along the course:
-
-* Control Structures
-* Classes and Methods
-* Objects and Methods
-* Inheritance
-* Polymorphism
-* Interfaces
-* Exception Handling
-* Streams and File I/O
-* Recursion
-* Dynamic Data Structures and Generics
-* Problem Solutions
 
 All the homework solutions - implementations uploaded in this repository are my individual work.
